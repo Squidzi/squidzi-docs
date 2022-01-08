@@ -1,15 +1,11 @@
 ---
 description: >-
-  RCommon is an application framework that aims to provide a simple
-  configuration interface for commonly used infrastructure and architectural
-  patterns used widely across the .NET 6 stack.
+  Squidzi is a multi-tenant CMS which is powered by the Squidex headless CMS. It
+  is built using Blazor on .NET 6 with the aim of creating simple
+  high-performance websites for personal or commercial use.
 ---
 
-# Welcome to RCommon
-
-## Our Philosophy
-
-We've built A LOT of applications on a lot of different application architectures with a variety of needs. During the design phase of those projects, we've made a lot of architectural choices based on the needs of the organization, budget, timeline, etc. Chances are that you've had to make some of these choices in the past. Or perhaps your making some of those choices right now. Our philosophy with RCommon is that software engineers should have flexibility in their choices of infrastructure, and the freedom from being strapped to those choices forever. Furthermore, we believe that having flexibility and freedom in application architecture, should not come at great cost to time or monetary value when you choose to exercise flexibility or freedom at any point in the future based on changing needs.
+# Welcome to Squidzi
 
 ## Getting Started
 
@@ -29,8 +25,8 @@ Ok, we've got it...lets look at some code!
 [running-samples.md](getting-started/running-samples.md)
 {% endcontent-ref %}
 
-{% content-ref url="getting-started/use-in-existing-project.md" %}
-[use-in-existing-project.md](getting-started/use-in-existing-project.md)
+{% content-ref url="getting-started/installation.md" %}
+[installation.md](getting-started/installation.md)
 {% endcontent-ref %}
 
 ### Dive a little deeper

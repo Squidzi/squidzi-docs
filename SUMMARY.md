@@ -1,11 +1,11 @@
 # Table of contents
 
-* [Welcome to RCommon](README.md)
+* [Welcome to Squidzi](README.md)
 
 ## Getting Started
 
 * [Running Samples](getting-started/running-samples.md)
-* [Use in Existing Project](getting-started/use-in-existing-project.md)
+* [Installation](getting-started/installation.md)
 
 ## Documentation
 
@@ -59,5 +59,4 @@
 
 ## Samples
 
-* [Microservices](samples/microservices.md)
 * [Basic 3-Tier](samples/basic-3-tier.md)
