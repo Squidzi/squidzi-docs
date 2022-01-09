@@ -39,7 +39,6 @@
   * [Real Time](documentation/infrastructure/real-time.md)
 * [Architecture](documentation/architecture/README.md)
   * [Overview](documentation/architecture/overview.md)
-  * [Microservices](documentation/architecture/microservices.md)
 
 ## Cloud Hosting
 
