@@ -9,6 +9,8 @@
     * [IIS](getting-started/installation-instructions/platforms/iis.md)
     * [Azure](getting-started/installation-instructions/platforms/azure.md)
   * [Configuration](getting-started/installation-instructions/configuration.md)
+* [Contributing & Developing](getting-started/contributing-and-developing.md)
+* [Roadmap](getting-started/roadmap.md)
 
 ## Documentation
 
