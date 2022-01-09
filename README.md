@@ -14,19 +14,19 @@ description: >-
 {% embed url="https://www.loom.com/share/3bfa83acc9fd41b7b98b803ba9197d90" %}
 
 {% hint style="info" %}
-**Quick Tip:** RCommon is a configuration heavy framework which allows us to give you only what  you need for your application. Before jumping into the samples, we recommend at least reading through the Fundamentals-> [Configuration ](documentation/fundamentals/configuration.md)section.
+**Quick Tip:** RCommon is a configuration heavy framework which allows us to give you only what  you need for your application. Before jumping into the samples, we recommend at least reading through the Fundamentals-> [Configuration ](broken-reference)section.
 {% endhint %}
 
 ### Jump Right In
 
 Ok, we've got it...lets look at some code!
 
-{% content-ref url="getting-started/running-samples.md" %}
-[running-samples.md](getting-started/running-samples.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="getting-started/installation.md" %}
-[installation.md](getting-started/installation.md)
+{% content-ref url="getting-started/installation-instructions/" %}
+[installation-instructions](getting-started/installation-instructions/)
 {% endcontent-ref %}
 
 ### Dive a little deeper
